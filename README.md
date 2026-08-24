@@ -1,7 +1,7 @@
 <div align="center">
 
-### **ayoub** — Full-Stack Engineer
-*Civil Engineering Software*
+### **ayoub** — Product Engineer
+*Building software for construction teams*
 
 **[About](#about) · [Stack](#stack) · [Principles](#principles) · [Contact](#contact)**
 
@@ -60,6 +60,6 @@
 
 <div align="center">
 
-<sub>ayoub — Full-Stack Engineer · Civil Engineering Software</sub>
+<sub>ayoub — Product Engineer · Building software for construction teams</sub>
 
 </div>
