@@ -36,13 +36,13 @@
 
 ---
 
-## <a name="principles"></a>Principles
+## <a name="principles"></a>How I work
 
-- 📱 **Mobile-first** — every screen is built for a phone before a desktop
-- 🌍 **Bilingual by default** — French and Arabic, RTL included
-- 🔒 **Security in depth** — least-privilege roles, encryption at rest, role checks on every request
-- 🧪 **Test-driven** — red, green, repeat
-- 🔌 **Portable data** — no vendor lock-in, a connection-string swap moves everything
+- Build for the phone first — that's where site reports get filed
+- Ship French and Arabic from day one, RTL included
+- Keep data portable so nothing is locked to a single host
+- Write tests before the code, not after
+- Encrypt at rest and check roles on every request
 
 ---
 
