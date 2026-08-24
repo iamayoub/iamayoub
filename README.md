@@ -12,17 +12,12 @@
 ## <a name="about"></a>Hero
 
 ```
-  _    _  ____   ___   __   __  ____
- / \  / |/ __ \ / _ \  \ \ / / | __ )
-/ _ \/ /| | | | | | | |  \ V /  |  _ \
-/ ___ \ | |_| | | |_| |   | |   | |_) |
-/_/   \_\ \____/  \___/    |_|   |____/
-
-___  ____  ____  __  ____
-|  _ \| _ \| __ )/ /_| __ )
-| | | | | | |  _ \| '_ \|  _ \
-| |_| | |_| | |_) | (_) | |_) |
-|____/ \___/|____/ \___/|____/
+ █████╗ ██╗   ██╗ ██████╗ ██╗   ██╗██████╗
+██╔══██╗╚██╗ ██╔╝██╔═══██╗██║   ██║██╔══██╗
+███████║ ╚████╔╝ ██║   ██║██║   ██║██████╔╝
+██╔══██║  ╚██╔╝  ██║   ██║██║   ██║██╔══██╗
+██║  ██║   ██║   ╚██████╔╝╚██████╔╝██████╔╝
+╚═╝  ╚═╝   ╚═╝    ╚═════╝  ╚═════╝ ╚═════╝
 ```
 
 **Building software for the construction site.** I design and build web applications for the civil-engineering industry: role-based supervision dashboards, daily site reports, and coordination between the field and the office.
