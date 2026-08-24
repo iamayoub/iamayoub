@@ -3,7 +3,7 @@
 ### **ayoub** — Product Engineer
 *Building software for construction teams*
 
-**[About](#about) · [Stack](#stack) · [Principles](#principles) · [Contact](#contact)**
+**[Bio](#bio) · [Stack](#stack) · [Principles](#principles) · [Contact](#contact)**
 
 </div>
 
@@ -25,6 +25,16 @@
 </div>
 
 **Building software for the construction site.** I design and build web applications for the civil-engineering industry: role-based supervision dashboards, daily site reports, and coordination between the field and the office.
+
+---
+
+## <a name="bio"></a>Bio
+
+I'm a product engineer from Algeria building software for the construction industry. I take a problem from the site and shape it into a tool people actually use: a daily report filed from a phone at the end of the shift, a dashboard the technical director checks each morning, an order that reaches the right site before the day starts.
+
+Most of my work is full-stack and end to end: the schema, the API, the interface, and the deployment. I keep everything bilingual (French and Arabic), test-driven, and built so it can move hosts without being rewritten.
+
+I care less about technology for its own sake and more about whether the person at the other end does their job faster and with fewer mistakes.
 
 ---
 
