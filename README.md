@@ -11,7 +11,9 @@
 
 ## <a name="about"></a>Hero
 
-```
+<div align="center">
+
+```text
  █████╗ ██╗   ██╗ ██████╗ ██╗   ██╗██████╗
 ██╔══██╗╚██╗ ██╔╝██╔═══██╗██║   ██║██╔══██╗
 ███████║ ╚████╔╝ ██║   ██║██║   ██║██████╔╝
@@ -19,6 +21,8 @@
 ██║  ██║   ██║   ╚██████╔╝╚██████╔╝██████╔╝
 ╚═╝  ╚═╝   ╚═╝    ╚═════╝  ╚═════╝ ╚═════╝
 ```
+
+</div>
 
 **Building software for the construction site.** I design and build web applications for the civil-engineering industry: role-based supervision dashboards, daily site reports, and coordination between the field and the office.
 
