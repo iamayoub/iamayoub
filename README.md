@@ -48,7 +48,7 @@ I care less about technology for its own sake and more about whether the person 
 
 ## <a name="projects"></a>Featured Projects
 
-### [internal-tool](https://github.com/iamayoub/internal-tool-vps) 🏗️
+### [internal-tool-vps](https://github.com/iamayoub/internal-tool-vps) 🏗️
 **Supervision platform for Frères Gana — civil engineering company**
 
 Mobile-first daily report system with role-based dashboards, order management, and bilingual FR/AR support. Built with React, Node.js, and PostgreSQL. Deployed on VPS with Docker Compose.
@@ -58,6 +58,27 @@ Mobile-first daily report system with role-based dashboards, order management, a
 - AES-256-GCM encryption at rest
 - JWT-based auth with scrypt password hashing
 - Full i18n with RTL support
+
+---
+
+### [QC-Monitoring](https://github.com/iamayoub/QC-Monitoring) 📊
+**Quality control monitoring system**
+
+JavaScript-based monitoring application for quality control processes.
+
+---
+
+### [Maintenance-Web-App](https://github.com/iamayoub/Maintenance-Web-App) 🔧
+**Maintenance management web application**
+
+Web app for tracking and managing maintenance operations.
+
+---
+
+### [preciqual-website](https://github.com/iamayoub/preciqual-website) 🌐
+**Personal portfolio website**
+
+HTML-based personal portfolio site.
 
 ---
 
