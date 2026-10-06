@@ -3,13 +3,13 @@
 ### **ayoub** — Product Engineer
 *Building software for construction teams*
 
-**[Bio](#bio) · [Stack](#stack) · [Principles](#principles) · [Contact](#contact)**
+**[About](#about) · [Stack](#stack) · [Projects](#projects) · [Contact](#contact)**
 
 </div>
 
 ---
 
-## <a name="about"></a>Hero
+## <a name="about"></a>About
 
 <div align="center">
 
@@ -26,11 +26,7 @@
 
 **Building software for the construction site.** I design and build web applications for the civil-engineering industry: role-based supervision dashboards, daily site reports, and coordination between the field and the office.
 
----
-
-## <a name="bio"></a>Bio
-
-I'm a product engineer from Algeria building software for the construction industry. I take a problem from the site and shape it into a tool people actually use: a daily report filed from a phone at the end of the shift, a dashboard the technical director checks each morning, an order that reaches the right site before the day starts.
+I'm a product engineer from Algeria. I take a problem from the site and shape it into a tool people actually use: a daily report filed from a phone at the end of the shift, a dashboard the technical director checks each morning, an order that reaches the right site before the day starts.
 
 Most of my work is full-stack and end to end: the schema, the API, the interface, and the deployment. I keep everything bilingual (French and Arabic), test-driven, and built so it can move hosts without being rewritten.
 
@@ -40,23 +36,28 @@ I care less about technology for its own sake and more about whether the person 
 
 ## <a name="stack"></a>Stack
 
-| Layer      | Tools                                            |
-|------------|--------------------------------------------------|
-| Frontend   | React · TypeScript · Vite                        |
-| Backend    | Node.js · Express                                |
-| Database   | PostgreSQL                                       |
-| Testing    | Vitest · Testing Library · Playwright            |
-| Deploy     | Vercel · Render · Supabase                       |
+| Layer | Tools |
+|-------|-------|
+| **Frontend** | React · TypeScript · Vite |
+| **Backend** | Node.js · Express |
+| **Database** | PostgreSQL |
+| **Testing** | Vitest · Testing Library · Playwright |
+| **Deploy** | Vercel · Render · Supabase · Docker |
 
 ---
 
-## <a name="principles"></a>How I work
+## <a name="projects"></a>Featured Projects
 
-- Build for the phone first — that's where site reports get filed
-- Ship French and Arabic from day one, RTL included
-- Keep data portable so nothing is locked to a single host
-- Write tests before the code, not after
-- Encrypt at rest and check roles on every request
+### [internal-tool](https://github.com/iamayoub/internal-tool-vps) 🏗️
+**Supervision platform for Frères Gana — civil engineering company**
+
+Mobile-first daily report system with role-based dashboards, order management, and bilingual FR/AR support. Built with React, Node.js, and PostgreSQL. Deployed on VPS with Docker Compose.
+
+**Highlights:**
+- 79/79 security tests passing
+- AES-256-GCM encryption at rest
+- JWT-based auth with scrypt password hashing
+- Full i18n with RTL support
 
 ---
 
